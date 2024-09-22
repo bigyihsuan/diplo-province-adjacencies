@@ -1,0 +1,306 @@
+F Ahmedabad coast - Gulf of Oman
+A Aja Supports Cormantin - Notse
+A Aksum - Suakin
+F Akwa'ala Supports Paiute - Sonora
+F Aleuts Supports Miwok - North Equatorial Current
+F Amami Cores
+A Amazon - Je
+F Amsterdam coast - Southern Bight
+A Andaman Islands Cores
+F Andhra Coast Supports Ceylon - Gulf of Mannar
+F Aomori coast - Oriental Sea
+A Apache Supports Chitimacha - Caddo
+A Arapaho Supports Kiowa - Apache
+A Arguin - Aswanik
+A Arkhangelsk - Kola
+A Astrakhan - Shache
+A Asuncion Supports Cordoba - Guarani
+F Athens coast - Ionian Sea
+A Ava Supports Bhamo Hold
+A Axura - Pano
+F Ayutthaya coast - Cambodia
+A Azande - Logone
+F Azores coast - NAO5
+A Baghdad - Trebizond
+F Bahamas - Antilles Current
+A Bahia - Goias
+A Bakchisarai - Ochakiv
+F Baleares - Algerian Basin
+F Baltic Sea - Gulf of Bothnia
+A Banat - Transylvania
+F Bandar Abbas coast - Gulf of Oman
+F Banjarmasin - Flores Sea
+F Bara - Maha
+F Baracoa Supports Jamaica - Windward Passage
+F Barbados - Caribbean Sea
+A Barbuda Holds
+F Barcelona coast - Strait of Bonifacio
+A Barotse - Kalahari
+F Batavia coast - Timor Sea
+A Beijing Supports Wuchang - Shaanxi
+F Beira coast - Comoros Sea
+F Belem - St. Marcos Bay
+F Belize coast - Gulf of Honduras
+A Bemba - Lunda-Luba
+A Benguela - Matamba
+F Bergen - North Sea
+F Bermuda coast Supports NAO4 - Saragasso Sea
+A Bhamo Supports Sasaram - Bhutan
+A Bogota - Huitoto
+A Borora - Chiquitano
+A Boston - Connecticut
+F Brattahlid Cores
+A Buenos Aires Supports Asuncion Hold
+A Bukhara - Uzgen
+A Bunyoro - Banda
+A Burundi - Mongo
+A Cabo Verde - Manden
+F Cairo coast #1 - Red Sea
+A Calama - Axura
+A Canaries Holds
+F Cap-Haitien coast - Caribbean Sea
+F Cape Khoe - Mpondo
+F Cartogena - Caracas
+F Catawba - Gulf Stream
+F Cayenne coast - Guiana Current
+F Cebu coast - Sulu Sea
+F Ceylon coast - Gulf of Mannar
+A Chengdu - Gansu
+A Chiang Mai - Lan Na
+A Chilcotin - Chinook
+F Chiloe coast - SPO1
+A Chipewyan - Oji-Cree
+A Chitimacha - Caddo
+F Chukchi Sea - Koryaks
+A Chukchis Supports Chukchi Sea - Koryaks
+A Chuyma Supports Calama - Axura
+A Cochin - Polygar
+F Constantinople coast #1 - Black Sea
+F Copenhagen - Skagerrak
+A Cordoba Supports Ranquel - Buenos Aires
+F Cormantin coast - Notse
+F Corse Cores
+A Cree - Atikamekw
+F Dani - Coral Sea
+A Darfur - Mandara
+A Debre Birhan - Oromo
+A Delhi - Sasaram
+A Dena'ina - Yupik
+A Derbent - Tsaritsyn
+A Dijon - Bern
+A Don Supports Astrakhan - Shache
+A Edinburgh - Wales
+F Edo coast - Tsugaru Strait
+F English Channel - Plymouth
+F Enticosty - Cap-aux-Meules
+A Estrie - Portland
+A Evens Cores
+F Ezo Supports Aomori - Oriental Sea
+A Fort Detroit - Ojibwe
+A Freiburg - Bern
+A Fusan - Pyeongyang
+F Galapagos - SPO5
+F Gdansk coast - Baltic Sea
+A Genoa Cores
+A Ghadames Supports Tunis - Rif
+F Goa coast - Lakshadweep Sea
+F Godthaab - Labrador Sea
+A Gondar - Dinka
+A Gosiute - Kiowa
+F Great Ardra coast - Gulf of Guinea
+F Gulf of Gabes Supports Ionian Sea - Sicily
+F Gunai - Coral Sea
+A Gyaman - Manden
+A Hailanpao - Shengjing
+F Hainan Supports Phan Rang - Hanoi
+F Haishenwai coast - Oriental Sea
+A Hanoi - Guangxi
+F Hanyang Supports Fusan - Pyeongyang wc
+F Havana - Bahamas Channel
+F Hawai'i Cores
+A Hawwara - Zaghawa
+A Helsingfors - Karelia
+A Herat - Hissar
+F Hobyo coast - Dhambalin Shore
+A Hohhot - Shaanxi
+A Hydarabad - Karnul
+F Iberian Current Supports Ireland - Rockall Rise
+A Ikh Khuree - Gobi
+A Innsbruck - Freiburg
+F Ionian Sea - Sicily
+F Iqualuit coast - Arctic Ocean
+F Ireland - Rockall Rise
+F Islas Malvinas - Argentine Basin
+A Jacob Fort - Geba
+A Jalo - Zaghawa
+F Jamaica - Windward Passage
+A Jassy Supports Bakchisarai - Ochakiv
+A Jenne - Kangaba
+A Kabul - Tsangpa
+A Kalina - Cayenne
+A Kanem - Hausa States
+A Kangaba - Niani
+A Karakorum - Irkutsk
+A Kazakh - Astrakhan
+A Khiva - Turkestan
+A Kinshasa - Loango
+A Kiowa - Apache
+F Kolkata coast - Bay of Bengal
+A Konigsberg - Gdansk
+F Koryaks Holds
+F Kota Batu - Sarawak
+A Kouroussa - Kquoja
+A Krakow - Brandenburg
+A Krasnoyarsk - Irkutsk
+A Kunming Supports Hanoi - Guangxi
+F Kuujjuaq coast - Naskapi
+A Kyiv - Transylvania
+A Kyoto - Tsushima
+A Lakota - Kanza
+A Lima - Quechua
+A Livonia - Livonia
+F London - North Sea
+A Lubeck - Kiel
+A Luxemburg Cores
+A Macao - Guangxi
+A Madeira - Quechua
+A Madras - Polygar
+F Madurai Supports Madras - Polygar
+F Mahra - Kathiri
+F Maldives - SAO1
+F Manado coast - Arafura Sea
+A Mandara - Nri
+F Manila coast - Philippene Sea
+A Maravi Holds
+A Mareeg - Turkana
+F Marrakech - Tiguert Bay
+A Marseille - Savoy
+F Massachusetts Bay - Boston
+A Masulipatam Holds
+F Mauritsstad - Todos os Santos Bay
+F Mek'ele coast - Red Sea
+F Mexico City wc - Sea of Cortez
+F Miwok coast - North Equatorial Current
+F Mogadishu coast - Seychelles Sea
+A Mohawk Supports Estrie - Portland
+A Mont Royal - Anishinabek
+A Moscow Holds
+F Mozambique Channel Convoys Sakalawa - Zulu
+A Mpemba - Lunda-Luba
+F Muscat - Strait of Hormuz
+F NAO4 - Saragasso Sea
+F Nakhon Si ec - Natuna Sea
+F Nanjing coast - Hokkien
+F Nantes coast - English Channel
+F Naples coast - Ionian Sea
+A Naskapi - Michikamau
+F Nazca Ridge Convoys Calama - Axura
+A Ndakaaru Supports Jacob Fort - Geba
+A New Amsterdam - Connecticut
+A Niani - Gurma
+A Nivikhs Holds
+F Nome coast Supports Yupik - Chukchi Sea
+F Norfolk coast - Maryland
+A Notse - Cormantin
+A Novgorod - Pskov
+A Nueva Vizcaya - Sonora
+A Nuremberg - Hesse
+A Ochakiv Supports Targoviste - Jassy
+A Ojibwe - Ioway
+F Okinawa Holds
+F Okinawa Trough - Fokien Strait
+F Osaka coast - Kuroshio Current
+A Oyo - Great Ardra
+A Paiute - Sonora
+A Pango - Mongo
+A Papinachois Supports Tadoussac - Atikamekw
+A Parmurbo - Karib
+F Pegu - Andaman Sea
+F Peru Basin - Axura
+A Phan Rang - Hanoi
+A Philadelphia - Maryland
+A Plymouth - Wales
+F Port Royal coast - Massachusetts
+A Portland - Massachusetts
+A Prague - Saxony
+A Pskov - Karelia
+A Putumayo Supports Lima - Quechua
+F Pyeongyang wc - Hanyang
+F Qeshm - Strait of Hormuz
+A Qiqihar - Hohhot
+A Quaqtaq - Innus
+A Quella Kollu - Guaqui
+F Quito coast - Colon Ridge
+F Rabat - Canary Basin
+F Rajamahendri - Masulipatam
+A Ranquel - Buenos Aires
+F Reunion coast - Crozet Basin
+A Rinpungpa Supports Kunming Hold
+A Riyadh - Rustaq
+F Rome Cores
+F SAO5 - Mauritsstad
+F Sahaliyan - Kuril Sea
+A Sahtu - Paulatuk
+A Sakalawa - Zulu
+F Salliq - Hudson Strait
+A Saltillo Supports Apache Hold
+F Sambas - Bangka
+F Sanaa - Aden
+A Sao Paulo - Mato Grosso
+F Sao Tome - Gulf of Guinea
+F Saragasso Sea - Puerto Rico
+F Sardinia - Sherki Banks
+A Sasaram - Bhutan
+F Scania - Stockholm
+F Serra Leoa Rise Convoys Cabo Verde - Manden
+A Shache Supports Derbent - Tsaritsyn
+A Shengjing - Zhili
+F Soyo coast - Lopez Bay
+F Spitsbergen - Norwegian Sea
+F St. Anthony - Cap-aux-Meules
+A St. Augustine - Muscogee
+F St. Helena coast - SAO5
+F St. John's coast Supports St. Anthony - Cap-aux-Meules
+A St. Louis - Goias
+F Strait of Gibraltar - Alboran Sea
+A Strasburg Cores
+F Sumatra - INO3
+F Surat - Gulf of Khambhat
+A Suzhou Supports Chengdu - Gansu
+A Tabriz - Derbent
+A Tadoussac - Atikamekw
+A Tangier - Rabat
+A Targoviste - Jassy
+A Tavoy - Nakhon Si
+F Tehran coast - Caspian Sea
+F Teushen coast - Rio de la Plata
+A Timbuktu - Aswanik
+F Timor coast - Timor Sea
+A Tlicho - Gros Ventres
+F Trebizond coast - Sea of Azov
+F Trieste coast - Dalmatia
+A Trondheim - Jamtland
+A Tsuu T'ina - Assiniboine
+A Tucapel - Ranquel
+F Tunis coast - Rif
+A Turfan Supports Turkestan - Yarkand
+A Turkestan - Yarkand
+A Turkmenistan - Khiva
+A Tutchone Cores
+F Tyrrhenian Sea - Sicily
+A Udni Supports Hydarabad - Karnul
+A Umea - Jamtland
+A Utrecht - Ghent
+A Uzgen - Yarkand
+A Valencia Holds
+A Venice - Trieste
+A Verkhoturye - Aqmola
+A Vienna - Slavonia
+A Waalo Supports Arguin - Aswanik
+F Warsangali - Gulf of Tadoura
+A Wuchang - Shaanxi
+A Yakutsk - Buryatia
+F Yokuts coast - Viscaino Bay
+F Yupik coast - Chukchi Sea
+F Zamboanga - Halmahera Sea
+F Zanzibar Cores

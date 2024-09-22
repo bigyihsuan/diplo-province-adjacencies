@@ -1,0 +1,393 @@
+_____
+
+Abyssinia
+
+A Aussa Supports Debre Birhan - Mek'ele
+A Banda Holds
+A Debre Birhan - Mek'ele
+A Dinka - Darfur
+F Gulf of Tadoura Holds
+A Mandara Holds
+A Sannar Supports Dinka - Darfur
+_____
+
+Ajuuran
+
+A Bemba Supports Matamba - Barotse
+A Burundi - Kismayo
+F Hobyo coast - Dhambalin Shore
+F Mahra Holds
+F Seychelles Sea - Comoros Sea
+A Turkana - Bunyoro
+F Zanzibar Holds
+_____
+
+Athapasca
+
+F Chipewyan - Hudson Bay
+A Cree Holds
+A Oji-Cree - Chipewyan
+A Paulatuk - Nunavut
+A Tanana - Tutchone
+A Tutchone - Dena'ina
+_____
+
+Austria
+
+F Adriatic Sea Supports Strait of Otranto - Naples
+A Freiburg Cores
+A Innsbruck Holds
+A Nuremberg Cores
+A Prague Holds
+A Venice Holds
+A Vienna Holds
+_____
+
+Aymara
+
+A Asuncion Supports Buenos Aires - Caingangue
+F Axura coast - Nazca Ridge
+A Borora - Mato Grosso
+A Chiquitano Supports Borora - Mato Grosso
+A Guarani Supports Asuncion Hold
+A Madeira Cores
+F Nazca Ridge - Roggeveen Basin
+A Quella Kollu - Guaqui
+_____
+
+Ayutthaya
+
+F Andaman Sea - Pegu
+A Ava - Kunming
+A Cambodia - Phan Rang
+F Gulf of Siam - Natuna Sea
+F Malacca Strait Holds
+F Natuna Sea - South China Sea
+F Riau Sea - Sambas
+A Thaton - Ava
+_____
+
+England
+
+F Bahamas coast - Antilles Current
+F Baracoa - Windward Passage
+F Cormantin - Gulf of Guinea
+A Edinburgh - York
+F English Channel - Rockall Rise
+A Guadeloupe Holds
+F Gulf Stream - Norfolk
+A Gyaman - Cormantin
+F Irish Sea - Ireland
+F Madurai - Quilon
+F Massachusetts Bay Supports Portland - Boston
+A Mohawk - Portland
+A Oneida - Seneca
+F Oxford coast - London
+F Polygar - Madurai
+A Portland - Boston
+F Puerto Rico - Mona Passage
+A Rajamahendri - Masulipatam
+F Saragasso Sea Supports Bahamas - Antilles Current
+F Southern Bight - English Channel
+F St. Anthony - Cap-aux-Meules
+A Tutelo - Cherokee
+F Windward Passage - Cap-Haitien
+_____
+
+France
+
+F Antilles Current - Windward Passage
+F Boston - Portland
+F Brokopondo - Parmurbo
+F Cap-Haitien coast Supports Antilles Current - Windward Passage
+F Corse Cores
+A Enticosty Supports Papinachois - Naskapi
+A Genoa Cores
+A Ghent Cores
+F Imerina Supports Maha - Sakalawa
+A Ioway Holds
+F Kalina - Belem
+F Ligurian Sea Holds
+A Luxemburg Holds
+F Maha - Sakalawa
+F Massachusetts Supports Boston - Portland
+A Mont Royal - Mohawk
+F Mpondo Supports Kalahari - Cape Khoe
+F Nantes coast - English Channel
+A Ojibwe Supports Ioway Hold
+A Papinachois - Naskapi
+A Paris Supports Ghent Hold
+F Plymouth - Rockall Rise
+F St. Lawrence - Cap-aux-Meules
+A Strasburg Cores
+_____
+
+Inuit
+
+F Aleuts - North Equatorial Current
+F Dena'ina - Tutchone
+F Hudson Bay Supports Nunavut - Chipewyan
+A Koyukon - Paulatuk
+A Naskapi Cores
+F Nunavut - Chipewyan
+F Robertstorg - Brattahlid
+_____
+
+Kongo
+
+Fernando_Po - Loango
+Sao_Tome - Gulf_of_Guinea
+Lopez_Bay - Guinea_Rise
+Matamba - Barotse
+Lunda-Luba - Matamba
+Benguela - Kalahari
+_____
+
+Mali
+
+A Aswanik - Arguin
+A Silla S Ndakaaru - Waalo
+A Kanem - Darfur
+A SAH2 S Kanem - Darfur
+A Aja Cores
+A Kangaba - Timbuktu
+A Kquoja - Looma
+_____
+
+Mapuche-Tehuelche
+
+F Argentine Basin - SAO1
+A Buenos Aires - Caingangue
+F Golfo San Jorge - Argentine Basin
+A Ranquel - Cordoba
+F Rio de la Plata Supports Buenos Aires - Caingangue
+F SPO2 - Gunai
+F Wagiman Supports SPO2 - Gunai
+_____
+
+Ming
+
+F Beizhili Sea - Yellow Sea
+A Gansu - Suzhou
+A Hainan - Hanoi
+A Hanoi - Phan Rang
+F Hokkien - Fokien Strait
+A Kunming - Ava
+A Macao Cores
+F Okinawa Supports Formosa - Okinawa Trough
+A Rinpungpa Cores
+F Yellow Sea - East China Sea
+_____
+
+Mughal
+
+A Agra - Kathmundu
+F Andaman Islands Supports Sumatra Hold
+F Bay of Bengal - Andhra Coast
+A Bhamo Supports Ava - Kunming
+F Gulf of Khambhat - Surat
+A Hydarabad - Rajamahendri
+A Yarkand - Hissar
+_____
+
+Netherlands
+
+A Amazon - Je
+F Angola Basin - St. Helena
+F Banda Sea - Flores
+A Bremen - Amsterdam
+F Celebes Sea - Manado
+F Flores Sea - Tenggara
+A Great Ardra - Nri
+F INO3 - Ceylon
+F Kalahari - Cape Khoe
+A Maranhao - St. Louis
+A Maryland - New Amsterdam
+A Nri - Hausa States
+F Okinawa Trough - Luzon Strait
+A Oyo - Nri
+A Philadelphia Holds
+F St. Louis coast - St. Marcos Bay
+A Sumatra Supports Andaman Islands Hold
+F Wadden Sea Convoys Bremen - Amsterdam
+_____
+
+Ottoman
+
+F Athens coast - Ionian Sea
+A Banat - Targoviste
+F Black Sea Supports Ochakiv - Bakchisarai
+A Ghadames - Marrakech
+A Hawwara Cores
+F Ionian Sea - Tyrrhenian Sea
+A Kathiri - Aden
+A Ochakiv - Bakchisarai
+F Red Sea - Gulf of Tadoura
+F Rif - Alboran Sea
+F Sanaa Supports Kathiri - Aden
+F Sea of Azov - Don
+F Strait of Otranto - Naples
+A Targoviste - Ochakiv
+A Tbilisi - Shache
+F Tripoli coast Supports Tunis - Tunis coast
+F Tunis coast Supports Rif - Alboran Sea
+_____
+
+Poland-Lithuania
+
+F Baltic Sea - Gulf of Bothnia
+A Brandenburg Supports Lubeck Hold
+F Caracas Holds
+F Copenhagen Supports Kiel Hold
+F Gulf of Paria - Barbados
+F Jacob Fort coast - Ndakaaru coast
+A Jassy Supports Bakchisarai - Ochakiv
+A Kiel Supports Copenhagen Hold
+A Kyiv - Poltava
+A Lubeck Supports Copenhagen Hold
+A Narva Supports Karelia - Helsingfors
+A Ndakaaru - Waalo
+A Warsaw - Konigsberg
+_____
+
+Portugal
+
+F Arabian Sea - Somali Basin
+A Barotse Supports Matamba - Bemba
+F Bay of Nouadhibou - Arguin
+A Caingangue Supports Asuncion - Buenos Aires
+F Cochin coast - Quilon
+F Comoros Sea Supports Sakalawa - Seychelles Sea
+F Coral Sea Supports Timor - Flores
+A Delagoa - Cape Khoe
+F Formosa - Okinawa Trough
+F Guanabara Bay - Argentine Basin
+F Gulf of Mannar - Ceylon
+F Iberian Current - Rockall Rise
+A Karnul Supports Hydarabad - Rajamahendri
+A Makua - Zanzibar
+A Maravi Supports Barotse Hold
+A Mato Grosso Supports Caingangue Hold
+F Mauritsstad - St. Louis
+F Rio Grande Rise Supports Guanabara Bay - Argentine Basin
+F SAO4 - St. Helena
+F Sakalawa - Seychelles Sea
+F Sea of Azores - Iberian Current
+F Seewarte Seamounts - NAO2
+F Timor coast - Flores
+A Waalo Supports Silla - Ndakaaru
+_____
+
+Qing
+
+A Amur - Evens
+A Buryatia - Indigirka
+A Hailanpao - Shengjing
+F Haishenwai coast - Oriental Sea
+A Hohhot Holds
+A Ikh Khuree Holds
+F Kuril Sea Supports Amur - Evens
+A Nivikhs Supports Amur - Evens
+F Pyeongyang Holds
+_____
+
+Russia
+
+A Aqmola - Turkestan
+A Bakchisarai - Ochakiv
+F Chukchis - Chukchi Sea
+A Evens - Amur
+A Helsingfors - Umea
+A Irkutsk Supports Sakha - Buryatia
+A Karakorum - Ikh Khuree
+A Karelia - Helsingfors
+A Kazakh Supports Aqmola - Turkestan
+A Kola Supports Helsingfors - Umea
+F Norwegian Sea - Trondheim
+A Sakha - Buryatia
+A Shache - Astrakhan
+A Turfan Cores
+A Turkmenistan - Khiva
+A Uzgen Supports Aqmola - Turkestan
+A Yakutsk Supports Evens - Amur
+_____
+
+Safavid
+
+A Bandar Abbas - Herat
+F Caspian Sea Supports Tsaritsyn - Astrakhan
+A Derbent Supports Tbilisi - Shache
+A Herat - Tehran
+A Hissar - Bukhara
+A Khiva Supports Turkestan Hold
+F Muscat - Sharqiya
+F Strait of Hormuz - Muscat
+A Tsaritsyn - Astrakhan
+A Turkestan Supports Khiva Hold
+_____
+
+Spain
+
+F Algerian Basin Supports Sherki Banks - Tunis
+A Apache Holds
+F Baleares - Alboran Sea
+A Bogota - Huitoto
+A Cartogena Holds
+A Chitimacha - Muscogee
+F Galapagos - Peru Basin
+F Gulf of Mexico - Havana
+F Halmahera Sea - NPO1
+F Hawai'i Holds
+F Jamaica - Gulf of Honduras
+A Lima - Quechua
+F Luzon Strait - Manila
+F Manila coast - Cebu
+F Mexico City ec - Gulf of Mexico
+F Panama nc - Honduras nc
+A Putumayo Supports Lima - Quechua
+F Quito coast Supports Galapagos - Peru Basin
+F Rabat - Anfa
+F Rome wc - Naples
+A Saltillo - Apache
+F Sherki Banks - Tunis
+F St. Augustine coast - Florida Current
+F Strait of Gibraltar Supports Baleares - Alboran Sea
+F Tangier Holds
+F Tiguert Bay - Marrakech
+A Valencia - Madrid
+F Zamboanga - Halmahera Sea
+_____
+
+Sweden
+
+F Gulf of Bothnia - Helsingfors
+F Scania Supports Stockholm - Baltic Sea
+F Skagerrak - Bergen
+F Stockholm - Baltic Sea
+A Umea Supports Gulf of Bothnia - Helsingfors
+A Vestland - Trondheim
+_____
+
+Tokugawa
+
+F Amami Supports Kuroshio Current Hold
+F Aomori coast - Oriental Sea
+A Fusan Holds
+F Kuroshio Current Holds
+F NPO4 - Koryaks
+F NPO5 Supports NPO4 - Koryaks
+F Tsugaru Strait - Ezo
+_____
+
+Ute-Shoshone
+
+Submitted orders:
+A Akwa'ala - Sonora
+A Arapaho - Kiowa
+F Berlanga Ridge - Mexico City
+F Chukchi Sea - Aleuts
+F Gulf of Alakshak Supports Tutchone - Dena'ina
+A Kanza - Missouri
+A Lakota - Ioway
+F North Equatorial Current Supports Chukchi Sea - Aleuts
+_____

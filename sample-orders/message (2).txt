@@ -1,0 +1,176 @@
+Submitted orders:
+F Ahmedabad coast - Gulf of Khambhat
+A Aksum - Sannar
+F Amsterdam coast - Wadden Sea
+F Aomori coast - Tsugaru Strait
+A Arguin - Sahrawi
+F Arkhangelsk coast - Kara Sea
+A Astrakhan - Shache
+A Athens - Sarajevo
+F Axura coast - Nazca Ridge
+A Ayutthaya - Saravane
+F Azores coast - NAO5
+A Baghdad - Najd
+F Bahamas coast - Bahamas Channel
+F Bahia coast - Todos os Santos Bay
+A Baidoa - Kismayo
+F Bandar Abbas coast - Strait of Hormuz
+A Barbuda - Guadeloupe
+F Barcelona coast - Strait of Bonifacio
+A Batavia - Surabaya
+F Beijing coast - Yellow Sea
+A Beira - Mutapa
+F Belize coast - Gulf of Honduras
+F Bermuda coast - NAO1
+A Bogota - Cartogena
+A Bordeaux - Dijon
+A Boston - Connecticut
+F Cabo Verde coast - Bay of Nouadhibou
+A Cairo - Tripoli
+F Canaries coast - Canary Basin
+F Cap-Haitien coast - Antilles Current
+F Cayenne coast - Guiana Current
+F Cebu coast - Zamboanga
+F Ceylon coast - Gulf of Mannar
+A Chengdu - Rinpungpa
+A Chiang Mai - Ava
+F Chiloe coast - SPO1
+A Chipaya - Calama
+A Chipewyan - Oji-Cree
+A Chuyma - Pano
+F Cochin coast - Quilon
+A Constantinople - Ochakiv
+A Cormantin - Aja
+A Debre Birhan - Oromo
+F Delagoa coast - Mozambique Channel
+A Delhi - Hydarabad
+A Dijon - Savoy
+F Edo coast - NPO1
+A Fernando Po - Nri
+F Formosa coast - Okinawa Trough
+A Fort Detroit - Ojibwe
+F Fort-Dauphin coast - Onilahy Bay
+F Gdansk coast - Brandenburg
+F Gibraltar coast - Cadiz Bay
+A Goa - Hydarabad
+A Gondar - Dinka
+A Gosiute - Arapaho
+F Gothenburg coast - Skagerrak
+A Great Ardra - Oyo
+A Hailanpao - Nivikhs
+F Haishenwai coast - Strait of Tartary
+A Helsingfors - Pskov
+A Herat - Bukhara
+F Hobyo coast - Dhambalin Shore
+A Hohhot - Gansu
+A Innsbruck - Venice
+F Iqualuit coast - Labrador Sea
+A Irkutsk - Karakorum
+A Jacob Fort - Ndakaaru
+A Jenne - SAH2
+A Kabul - Yarkand
+A Kangaba - Silla
+A Kinshasa - Sangha
+F Kolkata coast - Orissa
+A Kouroussa - Geba
+A Krakow Holds
+A Krasnoyarsk - Tumeds
+A Kunming - Bhamo
+A Kuujjuaq - Naskapi
+A Kyiv - Jassy
+A Kyoto - Tsushima
+A Lima - Huitoto
+F Lisbon coast Holds
+F London coast - North Sea
+F Macao coast - Fokien Strait
+F Madras coast - Polygar
+A Madrid - Merida
+F Makassar coast - Banda Sea
+F Manado coast - Celebes Sea
+F Manila coast - Cebu
+A Maravi - Barotse
+A Mareeg - Galla
+F Marseille coast - Ligurian Sea
+A Masulipatam - Karnul
+F Mauritsstad coast - Vitoria
+F Mecca coast - Tamaha
+F Mek'ele coast - Gulf of Tadoura
+F Mexico City wc - Berlanga Ridge
+F Miwok coast - North Equatorial Current
+F Mogadishu coast - Seychelles Sea
+A Mont Royal - Mohawk
+A Moscow - Bakchisarai
+A Mpemba - Matamba
+F Muscat coast - Rustaq
+F Nakhon Si ec - Natuna Sea
+F Nanjing coast - East China Sea
+F Nantes coast - Normandy
+F Naples coast - Tyrrhenian Sea
+A New Amsterdam - Philadelphia
+F New Courland coast - Caracas
+A Niani - Aja
+A Nome - Koyukon
+F Norfolk coast - Gulf Stream
+A Novgorod - Pskov
+A Nueva Vizcaya - Sonora
+F Obdorsk coast - Laptev Sea
+F Osaka coast - Kuroshio Current
+A Oxford - Wales
+A Paiute - Sonora
+F Panama nc - Bay of Panama
+A Pango - Mongo
+A Paris - Luxemburg
+A Parmurbo - Karib
+F Plymouth coast - Rockall Rise
+F Port Royal coast - Cap-aux-Meules
+A Portland - Mohawk
+F Porto coast - Sea of Azores
+A Prague - Nuremberg
+A Qiqihar - Ikh Khuree
+F Quaqtaq coast - Hudson Strait
+F Quebec coast - St. Lawrence
+A Quella Kollu - Guarani
+F Quito coast - Colon Ridge
+F Reunion coast - Crozet Basin
+A Rio de Janeiro - Mato Grosso
+A Sahtu - Tutchone
+A Saltillo - Karankawa
+A Sao Paulo - Caingangue
+A Sarajevo - Banat
+A Sasaram - Bhamo
+F Shengjing coast - Pyeongyang wc
+A Shiraz - Bandar Abbas
+A Shoshone - Gosiute
+F Smyrna coast - Levantine Sea
+F Soyo coast - Guinea Rise
+F St. Augustine coast - Gulf of Mexico
+F St. Helena coast - Kalahari
+F St. John's coast - Strait of Belle Isle
+A St. Louis - Maranhao
+F Stockholm coast - Scania
+A Tabriz - Derbent
+A Tadoussac - Papinachois
+A Tara - Aqmola
+F Tavoy coast - Malacca Strait
+A Tehran - Turkmenistan
+F Tehuelche coast - Golfo San Jorge
+A Teushen - Querandi
+F Timor coast - Flores
+A Tlicho - Sekani
+A Trebizond - Tbilisi
+F Trieste coast - Adriatic Sea
+A Tripoli - Ghadames
+A Tsuu T'ina - Assiniboine
+A Tucapel - Santiago
+F Tunis coast - Rif
+A Umea - Jamtland
+A Utrecht - Amsterdam
+F Valencia coast - Balearic Sea
+A Verkhoturye - Kazakh
+A Vienna - Bavaria
+A Warsaw - Konigsberg
+A Wilno - Kyiv
+A Wuchang - Gansu
+A Yakutsk - Evens
+F Yokuts coast - Viscaino Bay
+F Yupik coast - Kvichak Bay
